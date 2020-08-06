@@ -1,7 +1,7 @@
 //API Key - 214qEA18yQLXg4vSGZLQtMa5X4pFMmmhebOmZuV0
 //Example - https://developer.nps.gov/api/v1/parks?parkCode=acad&api_key=214qEA18yQLXg4vSGZLQtMa5X4pFMmmhebOmZuV0
 //State Example - https://developer.nps.gov/api/v1/parks?stateCode=tx&api_key=214qEA18yQLXg4vSGZLQtMa5X4pFMmmhebOmZuV0
-
+"use strict";
 const apiKey = "214qEA18yQLXg4vSGZLQtMa5X4pFMmmhebOmZuV0";
 const searchURL = "https://developer.nps.gov/api/v1/parks";
 
